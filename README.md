@@ -24,7 +24,8 @@ By doing so, the project aims to facilitate a more streamlined decision-making p
 ### 1. Getting dataset from the client (The dataset used in this project was taken from Kaggle)
 
   Data was taken from Kaggle in the Pizza Restaurant Sales challenge: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
-  Data is also available in the google drive link below:
+  
+Data is also available in the google drive link below:
   https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
 
 ### 2. Understanding the Business Case
@@ -40,14 +41,16 @@ By doing so, the project aims to facilitate a more streamlined decision-making p
 
   Duplication was removed, columns and rows adjusted.
 
-  Preview of some sections of the cleaned datasheet
-  ![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Cleaning%202.png)
-  ![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Manipulation%201.png)
+  Preview of some sections of the cleaned datasheet:
+  
+![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Cleaning%202.png)
+![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Manipulation%201.png)
   
 ### 4. Data Processing 
   Some additional details were extracted more details from the cleaned data to help with data analysis, for example, day-wise data was added
   to help with analysis as the client (in this case Kaggle's problem statement) requested for the day-wise trend.
-  Included columns:
+  
+Included columns:
 
   ![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Manipulation%202.png)
 
