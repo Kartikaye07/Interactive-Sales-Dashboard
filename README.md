@@ -26,7 +26,7 @@ By doing so, the project aims to facilitate a more streamlined decision-making p
   Data was taken from Kaggle in the Pizza Restaurant Sales challenge: https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
   
 Data is also available in the google drive link below:
-  https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
+  https://drive.google.com/drive/u/0/folders/1Z28H5MtN41X3UOS0jFcNeTYr-QO27XFr
 
 ### 2. Understanding the Business Case
 
