@@ -47,7 +47,7 @@ Data is also available in the google drive link below:
 ![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Data%20Manipulation%201.png)
   
 ### 4. Data Processing 
-  Some additional details were extracted more details from the cleaned data to help with data analysis, for example, day-wise data was added
+  Some additional details were extracted from the cleaned data to help with data analysis, for example, day-wise data was added
   to help with analysis as the client (in this case Kaggle's problem statement) requested for the day-wise trend.
   
 Included columns:
@@ -66,7 +66,7 @@ Included columns:
 
 ### 6. Creation of a dynamic and interactive dashboard
 
-  The dashboard was made interactive and dynamic by creating a filter panel using a timeline and slicer that adjusts the data of the piot tables and provides the necessary insights for making data-drived decision.s
+  The dashboard was made interactive and dynamic by creating a filter panel using a timeline and slicer that adjusts the data of the piot tables and provides the necessary insights for making data-drived decisions
 
   ![image](https://github.com/Kartikaye07/Interactive-Sales-Dashboard/blob/main/images/Interactive%20Dashboard.png)
 
